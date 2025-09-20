@@ -23,7 +23,8 @@
     "marked": "^15.0.4",
     "tailwindcss": "^4.0.9",
     "lodash": "latest",
-    "axios": "latest"
+    "axios": "latest",
+    "@netlify/neon": "latest"
   },
   "devDependencies": {
     "@sanity/export": "^3.38.1",
